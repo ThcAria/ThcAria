@@ -1,4 +1,3 @@
-<!-- TITLE ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=F50000&center=true&vCenter=true&width=700&lines=Aria+Azimi;Front-End+Developer;Learning+%26+Evolving+Every+Day">
 </p>
