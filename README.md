@@ -1,48 +1,95 @@
-<!-- Banner -->
+<!-- TITLE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=22&pause=900&color=FF2E2E&center=true&vCenter=true&width=600&lines=Aria+Azimi+on+the+Front-End+Grind;Street+Coded+%7C+High-Class+Crafted;UI+Dealer+%7C+JS+Player+%7C+Figma+Stepper" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=F50000&center=true&vCenter=true&width=700&lines=Aria+Azimi+%7C+Front-End+Developer;Street+Mindset+%2B+High-Class+Design;Figma+Artist+%7C+Tailwind+Rider+%7C+JS+Player;Crafting+Clean+UIs+with+Gangster+Precision">
 </p>
 
 ---
 
-### 👑 Aria on the Beat  
-**Front-End Gangster** with a clean touch & street-level precision 😎🔥  
-I build UIs the way others drop tracks — smooth, sharp and heavy.
+<div align="center">
+
+### 🔥 **Front-End Developer with Street Vibes & Premium Touch**
+
+I build UIs the same way legends drop beats —  
+**smooth, sharp, clean & heavy.**  
+Turning pixels into **high-class visual stories** and code into **street-engineered perfection.**
+
+</div>
 
 ---
 
-## 🚀 **Skill Set (No Cap)**
-- 🎨 *Figma Flow Maker*  
-- 💨 *TailwindCSS Rider*  
-- ⚡ *JavaScript Dripper*  
-- 🧩 HTML & CSS with premium cuts  
-- 🥷 Pixel Assassin, UI Cleaner
+## 🚀 **Tech Arsenal**
+
+<div align="center">
+
+| Skill | Level | Vibez |
+|-------|-------|--------|
+| 🎨 **Figma** | UI/UX Architect | Smooth • Precise • Clean |
+| ⚡ **JavaScript** | Logic Flexer | Fast • Sharp • Heavy |
+| 🌀 **TailwindCSS** | Style Wizard | Minimal • Modern • Perfect |
+| 🧩 **HTML5** | Structure Master | Solid • Semantic • Clean |
+| 🎛 **CSS3** | Aesthetic Controller | Responsive • Animated |
+
+</div>
 
 ---
 
-## 💎 **My Code Energy**
+## 💎 **Code Philosophy (GANG MODE)**
+
 ```
-No messy stuff.
-No cheap designs.
-Just clean lines, fast vibes & gangster precision.
+No weak designs.
+No cheap layouts.
+Every pixel matters.
+Every detail hits clean.
+High energy. High class. No cap.
 ```
 
 ---
 
-## ⚔️ **What I Do**
-- Crafting modern & smooth interfaces  
-- Turning ideas into street-smart UIs  
-- Mixing design + code into one high-class vibe  
+## 🎯 **What I Bring to the Table**
+- Building **ultra-clean & modern** interfaces  
+- Creating **smooth animations** with JS / CSS  
+- UI/UX thinking with **Figma precision**  
+- Street-style creativity mixed with **developer discipline**  
+- Turning ideas into **alive, breathing digital experiences**  
+
+---
+
+## ⚙️ **My Workflow Style**
+
+✔ Pixel-Perfect  
+✔ Fast Execution  
+✔ Clean Code  
+✔ High-Class UI  
+✔ Street-Level Creativity  
+✔ Never missing the vibe 😎🔥  
+
+---
+
+## 📊 **Stats (Looking Good on Your Profile)**  
+*(بعد از اینکه پروفایلت فعال شد اینا اتومات پر میشه)*
+
+<p align="center">
+  <img width="460" src="https://github-readme-stats.vercel.app/api?username=ThcAria&show_icons=true&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThcAria&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 **Hit Me Up**
-- Instagram: yourlink  
-- Telegram: yourlink  
-- Email: yourmail  
+🔥 Instagram: yourlink  
+🔥 Telegram: yourlink  
+🔥 Email: yourmail  
 
 ---
 
 <p align="center">
-  <b>Stay sharp. Stay clean. Keep it gangster. 🔥</b>
+  <img src="https://img.shields.io/badge/Stay-Clean-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stay-Gangster-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge" />
 </p>
+
+<div align="center">
+  
+### **Made with ❤️, Street Energy & Front-End Fire 🔥**
+
+</div>
